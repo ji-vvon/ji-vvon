@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 <a href=https://velog.io/@ji-vvon target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://www.notion.so/cbc8edc38cd34726a939aa5e06e0185c" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=#000000&logoColor=FFFFFF"/></a>
+
+
+
 <!--
 **ji-vvon/ji-vvon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
