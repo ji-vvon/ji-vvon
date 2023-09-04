@@ -5,6 +5,7 @@
 <a href=https://velog.io/@ji-vvon target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="https://torpid-drawer-27f.notion.site/turtle-5c1c16de92304d89ae6eedb1738a9fa5" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
 <a href="mailto:jjw9895@duksung.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
+<a href="https://wonz.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-#000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
   
 </div>
 
