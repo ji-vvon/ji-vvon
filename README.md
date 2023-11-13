@@ -1,6 +1,6 @@
 <div align=center>
   <h2> 🎶Introduction </h2>
-  <p> 안녕하세요, <br>백엔드 개발을 공부하다 현재는 IT 서비스 기획을 파고 있는 <br>신입 PM 장지원입니다. </p>
+  <p> 안녕하세요, <br>백엔드 개발 경험이 있는 신입 IT 서비스 기획자 장지원입니다. </p>
   <br>
 
   <h2>🔨 Skill</h2>
