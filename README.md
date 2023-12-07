@@ -29,7 +29,7 @@
 
   <br></br>
   <h3>🏫 Education</h3>
-  <p>2019.03 ~ 2024.02  🔸덕성여자대학교 IT미디어공학과 졸업유예(4.25/4.5)<br>
+  <p>2019.03 ~ 2024.02  🔸덕성여자대학교 IT미디어공학과 졸업유예<br>
   2023.06 ~ 2023.10  🔸[서울경제진흥원 x 원티드 x 러닝스푼즈]  IT 서비스 기획자 캠프<br>
   2022.09 ~ 2023.02  🔸독일 Deggendorf Institute of Technology 교환학생 (International Computer Science) <br>
   </p>
